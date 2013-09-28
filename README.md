@@ -19,3 +19,8 @@ This will generate executable `aliaswho`.
 	./aliaswho < ~/.bash_history
 
 aliaswho will sort all command prefix by "times it occurs * length of the command". There are 2 columns in output, first is times a command occurs, second is the command itself.
+
+## Links
+
+* [统计 Linux 下使用频率最高的命令](http://blog.henix.info/blog/linux-cmd-freq.html)
+* [aliaswho - 分析 bash_history 得到 alias 建议](http://www.douban.com/note/264471057/)
